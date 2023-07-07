@@ -1,0 +1,16 @@
+body{
+    background-color: wheat;
+    color: palevioletred;
+
+
+}
+a:link{
+    color: rgba(102, 6, 57, 0.74);
+}
+a:hover{
+    color: black;
+}
+
+h1{
+    color:rgb(150, 50, 66);
+}
